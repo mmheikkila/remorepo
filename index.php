@@ -1,4 +1,10 @@
 <?php
+//muutos remorepoon
+$muutos = true;
+
+//uusi muutos remorepoon
+$muutosremo = true;
+
 
 include "index_alku.html";
 
