@@ -2,10 +2,6 @@
 
 include "index_alku.html";
 
-$palvelin = "localhost";
-$username = "trtkp17a3";
-$password = "kAWlI9Kw";
-$tietokanta = "trtkp17a3";
 
 // luo yhteys
 $yhteys = new mysqli($palvelin, $username, $password, $tietokanta);
