@@ -8,10 +8,7 @@ $muutosremo = true;
 
 include "index_alku.html";
 
-$palvelin = "localhost";
-$username = "trtkp17a3";
-$password = "*********";
-$tietokanta = "**********";
+
 
 // luo yhteys
 $yhteys = new mysqli($palvelin, $username, $password, $tietokanta);
